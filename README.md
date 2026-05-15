@@ -25,7 +25,7 @@ A web-based student attendance management system built with Flask and PostgreSQL
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/vandhana-14/SmartAttendance.git
    cd SmartAttendance
    ```
 
